@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "args": "^3.0.7",
     "lodash": "^4.17.4",
     "moo": "^0.4.3",
     "nearley": "^2.11.0",
-    "nearly": "^1.8.1"
   }
 }
